@@ -1,0 +1,15 @@
+.nav-bar {
+    background-color: burlywood;
+}
+
+.nav-list {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-list-item {
+    text-decoration: none;
+    color: #fff;
+    cursor: pointer;
+}

@@ -1,0 +1,15 @@
+.small {
+    font-size: 14px;
+}
+
+.large {
+    font-size: 24px;
+}
+
+.capital {
+    text-transform: uppercase;
+}
+
+.lower-case {
+    text-transform: lowercase;
+}
